@@ -1,0 +1,10 @@
+streamlit>=1.45.0
+agno>=1.7.0
+groq>=0.30.0
+python-dotenv>=1.0.1
+youtube-transcript-api>=1.1.1
+yt-dlp>=2025.6.30
+markdown>=3.8
+requests>=2.32.0
+pydantic>=2.11.0
+typing-extensions>=4.12.2
